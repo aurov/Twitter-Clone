@@ -1,7 +1,7 @@
 # Twitter Clone
 Twitter Clone v1
 
-[Run Twitter Clone](https://gitfetch-react.netlify.com)
+[Run Twitter Clone](https://twitter-clone.netlify.com)
 
 (Automatically deployed from this repository on netlify build)
 
